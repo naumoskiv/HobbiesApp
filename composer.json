@@ -1,0 +1,17 @@
+{
+    "name": "viktor/php_web_aplikacii",
+    "authors": [
+        {
+            "name": "naumoskiv",
+            "email": "58512274+naumoskiv@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.1"
+    }
+}
